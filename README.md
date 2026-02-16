@@ -1,1 +1,1 @@
-# gamesnotes
+# games-notes
